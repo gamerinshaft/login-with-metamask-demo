@@ -7,7 +7,7 @@ import { Profile } from '../Profile/Profile';
 import { Auth } from '../types';
 import logo from './logo.svg';
 
-const LS_KEY = 'login-with-metamask:auth';
+const LS_KEY = 're-generative-girls:auth';
 
 interface State {
 	auth?: Auth;
